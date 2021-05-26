@@ -15,6 +15,10 @@
 
 - Development of digital public services with real impact within a small autonomous team
 
+**Mobile developer** @ [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr/) _(dec 2020 - now)_
+
+- Cross-platform applications development of digital public services with real impact within a small autonomous team
+
 **Fullstack developer** @ [Benevolt](https://benevolt.fr/) _(jan 2020 - aug 2020)_
 
 - design and integration of functional and technical improvements of a networking platform
