@@ -56,3 +56,6 @@ Baccalauréat Scientifique - Sciences de l'ingénieur - Informatique et sciences
 
 [tangimds@gmail.com](mailto:tangimds+cv@gmail.com)  
 [+33695381595](tel:+33695381595)
+
+[github](https://github.com/tangimds)
+[linkedin](https://www.linkedin.com/in/tangimendes/)
