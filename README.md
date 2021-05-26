@@ -7,6 +7,8 @@
 - 📷 Photography enthusiast
 - 💬 Speak French and English
 
+---
+
 ### Experience
 
 **Fullstack developer** @ [BetaGouv](https://beta.gouv.fr/) _(dec 2020 - now)_
@@ -25,11 +27,15 @@
 
 - maintenance vehicle airport location system (MVP)
 
+---
+
 ### Project
 
-[**Tetria**](https://tangimds.github.io/tetria/) _(apr 2019)_
-Tetris Game - AI genetic algorithm
+[**Tetria**](https://tangimds.github.io/tetria/) _(apr 2019)_  
+Tetris Game - AI genetic algorithm  
 [_source code_](https://github.com/tangimds/tetria)
+
+---
 
 ### Education
 
@@ -43,6 +49,8 @@ Ingénieur Informatique
 **Lycée Naval** _(2012 - 2015)_  
 _@ Brest, France_  
 Baccalauréat Scientifique - Sciences de l'ingénieur - Informatique et sciences du numérique
+
+---
 
 ### Contact
 
