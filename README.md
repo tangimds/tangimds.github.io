@@ -5,10 +5,31 @@
 - 🚙 Driver licenses (car and motorcycle)
 - 🏀 Basketball fan
 - 📷 Photography enthusiast
+- 💬 Speak French and English
 
 ### Experience
 
-### On the side
+**Fullstack developer** @ [BetaGouv](https://beta.gouv.fr/) _(dec 2020 - now)_
+
+- Development of digital public services with real impact within a small autonomous team
+
+**Fullstack developer** @ [Benevolt](https://benevolt.fr/) _(jan 2020 - aug 2020)_
+
+- design and integration of functional and technical improvements of a networking platform
+
+**Web developer** @ [Neature](https://neature.fr/) _(jun 2018 - jul 2018)_
+
+- Design and integration of the company internal management application
+
+**Developer** @ [Base Naval Aéronautique](https://www.defense.gouv.fr/marine/operations/forces/aeronautique-navale/bases-d-aeronautique-navale/ban-landivisiau/base-d-aeronautique-navale-de-landivisiau/) _(jul 2017)_
+
+- maintenance vehicle airport location system (MVP)
+
+### Project
+
+[**Tetria**](https://tangimds.github.io/tetria/) _(apr 2019)_
+Tetris Game - AI genetic algorithm
+[_source code_](https://github.com/tangimds/tetria)
 
 ### Education
 
