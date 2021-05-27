@@ -1,6 +1,6 @@
 ### About me
 
-- Born the **in 13th Jan 1997** in France
+- Born the **13th Jan 1997** in France
 - 🌷 Based in Amsterdam
 - 🚙 Driver licenses (car and motorcycle)
 - 🏀 Basketball fan
