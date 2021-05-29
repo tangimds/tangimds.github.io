@@ -1,7 +1,11 @@
-### About me
+# Tangi Mendes
+
+[tangimds@gmail.com](mailto:tangimds+cv@gmail.com) | [+33695381595](tel:+33695381595) | [github](https://github.com/tangimds) | [linkedin](https://www.linkedin.com/in/tangimendes/)
+
+## About me
 
 - Born the **13th Jan 1997** in France
-- 🌷 Based in Amsterdam
+- 🌷 Based in Amsterdam, Netherlands
 - 🚙 Driver licenses (car and motorcycle)
 - 🏀 Basketball fan
 - 📷 Photography enthusiast
@@ -9,7 +13,7 @@
 
 ---
 
-### Experience
+## Experience
 
 **Fullstack developer** @ [BetaGouv](https://beta.gouv.fr/) _(dec 2020 - now)_
 
@@ -33,7 +37,7 @@
 
 ---
 
-### Project
+## Project
 
 [**Tetria**](https://tangimds.github.io/tetria/) _(apr 2019)_  
 Tetris Game - AI genetic algorithm  
@@ -41,7 +45,7 @@ Tetris Game - AI genetic algorithm
 
 ---
 
-### Education
+## Education
 
 **ETS (École de Technologie Supérieure)** _(sept 2019 - dec 2019)_  
 _@ Montréal, Canada_
@@ -53,14 +57,3 @@ Ingénieur Informatique
 **Lycée Naval** _(2012 - 2015)_  
 _@ Brest, France_  
 Baccalauréat Scientifique - Sciences de l'ingénieur - Informatique et sciences du numérique
-
----
-
-### Contact
-
-[tangimds@gmail.com](mailto:tangimds+cv@gmail.com)  
-[+33695381595](tel:+33695381595)
-
-[github](https://github.com/tangimds)
-[linkedin](https://www.linkedin.com/in/tangimendes/)
-
