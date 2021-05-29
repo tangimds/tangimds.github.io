@@ -47,13 +47,13 @@ Tetris Game - AI genetic algorithm
 
 ### Education
 
-**ETS (École de Technologie Supérieure)** _(sept 2019 - dec 2019)_  
+**[ETS](https://www.etsmtl.ca/) (École de Technologie Supérieure)** _(sept 2019 - dec 2019)_  
 _@ Montréal, Canada_
 
-**INSA (Institut National des Sciences Appliquées)** _(2015 - 2020)_  
+**[INSA](https://www.insa-rennes.fr/) (Institut National des Sciences Appliquées)** _(2015 - 2020)_  
 _@ Rennes, France_  
 Ingénieur Informatique
 
-**Lycée Naval** _(2012 - 2015)_  
+**[Lycée Naval](https://www.defense.gouv.fr/marine/ressources-humaines/ecoles-et-formations/lycee-naval/le-lycee-naval)** _(2012 - 2015)_  
 _@ Brest, France_  
 Baccalauréat Scientifique - Sciences de l'ingénieur - Informatique et sciences du numérique
