@@ -4,12 +4,10 @@
 
 ### About me
 
-- Born the **13th Jan 1997** in France
-- 🌷 Based in Amsterdam, Netherlands
-- 🚙 Driver licenses (car and motorcycle)
-- 🏀 Basketball fan
-- 📷 Photography enthusiast
-- 💬 Speak French and English
+Hi! I'm Tangi, full-stack software developer with 5 years of experience, passionate about creating new products from scratch. 
+
+Currently working in a start-up studio, I accompany founders with their projects. 
+Whether it's just an idea or an already working product, I can help. 
 
 ---
 
@@ -19,9 +17,25 @@
 
 - Development of digital public services with real impact within a small autonomous team
 
-**Mobile developer** @ [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr/) _(dec 2020 - now)_
+**Fullstack developer** @ [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr/) _(dec 2020 - now)_
 
 - Cross-platform applications development of digital public services with real impact within a small autonomous team
+
+**Fullstack developer** @ [Jardin Mental](https://jardinmental.fabrique.social.gouv.fr/) _(dec 2020 - now)_
+
+- An app that seeks to create a supportive environment for users to cultivate better mental health habits and improve their quality of life. (10K users)
+
+**Fullstack developer** @ [Oz' Ensemble](https://jardinmental.fabrique.social.gouv.fr/) _(dec 2020 - now)_
+
+- An app designed to support individuals in reducing their alcohol consumption. (+80K users)
+
+**Fullstack developer** @ [BPCO'Mieux](https://beta.gouv.fr/startups/bpco.html) _(jan 2023 - dec 2023)_
+
+- An app designed to support individuals in reducing their alcohol consumption. (+80K users)
+
+**Fullstack developer** @ [Champerché](https://champerche.fr/) _(aug 2022 - now)_
+
+- a French urban agriculture company that focuses on cultivating herbs and other plants using innovative techniques, including biopony. (200% growth)
 
 **Fullstack developer** @ [Benevolt](https://benevolt.fr/) _(jan 2020 - aug 2020)_
 
@@ -37,11 +51,14 @@
 
 ---
 
-### Project
+### Side projects
 
 [**Tetria**](https://tangimds.github.io/tetria/) _(apr 2019)_  
 Tetris Game - AI genetic algorithm  
 [_source code_](https://github.com/tangimds/tetria)
+
+[**Bouncebet**](https://bouncebet.framer.website/) _(sep 2024 - now)_  
+A betting platform for basketball games  
 
 ---
 
